@@ -1,2 +1,2 @@
 # laska-landing
-Landing for laska house
+Landing for Laska house
