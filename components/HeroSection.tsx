@@ -7,7 +7,7 @@ export default function HeroSection() {
             {/* Фонове зображення на всю секцію */}
             <div className="absolute inset-0 -z-10">
                 <Image
-                    src="/images/hero.jpg"
+                    src="/images/hero.png"
                     alt="Будиночок у Карпатах"
                     fill
                     priority
@@ -24,7 +24,7 @@ export default function HeroSection() {
                     {/* Логотип або назва */}
                     <Link href="/">
                         <Image
-                            src="/images/logo.png"
+                            src="/images/hero.png"
                             alt="Laska logo"
                             width={60}
                             height={60}
